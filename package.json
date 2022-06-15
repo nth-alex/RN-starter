@@ -1,0 +1,8 @@
+{
+  "name": "rn-starter",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:nth-alex/RN-starter.git",
+  "author": "alex",
+  "license": "MIT"
+}
